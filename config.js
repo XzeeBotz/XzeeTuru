@@ -5,8 +5,8 @@ global.owner = ['6281381685954', '6289514712995', '6285755734716'] // Put your n
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
-  // name: 'https://website'
-  nrtm: 'https://nurutomo.herokuapp.com',
+  // name: 'https://xzeebotz.github.io'
+  nrtm: 'https://xzeebotz.github.io',
   xteam: 'https://api.xteam.xyz',
   zahir: 'https://zahirr-web.herokuapp.com',
   zeks: 'https://api.zeks.xyz',
